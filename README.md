@@ -1,5 +1,7 @@
 # 📝 To-Do List App
 A simple, user-friendly To-Do List application built using HTML, CSS, and JavaScript.
+![Screenshot 2025-06-11 231203](https://github.com/user-attachments/assets/b740f865-e751-4be9-aca5-ae734c6e0819)
+
 ## 📌 Description
 This To-Do List App allows users to keep track of their tasks efficiently. Users can add new tasks, mark them as completed, delete tasks, and view all their pending or completed items — all within a minimal and clean UI.
 ## ✨ Features
@@ -18,7 +20,7 @@ This To-Do List App allows users to keep track of their tasks efficiently. Users
 Check out the live version of the app 
 todo-list-app/
 │
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+ ├── index.html
+ ├── style.css
+ ├── script.js
+ └── README.md
